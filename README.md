@@ -25,7 +25,7 @@ The backward pass code is identical either way — only the label shape and how 
 
 ## Datasets
 
-**IRIS** 
+**IRIS**,
 **MNIST** 
 
 ## Training
